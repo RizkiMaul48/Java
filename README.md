@@ -1,2 +1,2 @@
 # Java_Dasar
-Kumpulan Source Code Sederhana menggunakan bahasa Pemrogaman Java
+Source Code Sederhana dengan bahasa Pemrogaman Java
